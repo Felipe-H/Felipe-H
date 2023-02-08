@@ -1,6 +1,6 @@
 <h1>Hi, I'm Felipe and welcome to my profile! 👋</h1>
 
-- 🔭 I am currently 
+- 🔭 I am currently a developer
 - 🌱 I’m currently learning Full-Stack Development using React and Python.
 
 <div style="display: inline_block"><br>
