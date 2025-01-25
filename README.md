@@ -6,6 +6,6 @@
 🌱 Passionate about creating web applications that make a difference.
 🚀 Exploring the world of Full-Stack Development with PHP and beyond.
 
-🛠️ Tech Stack: PHP, Laravel, JavaScript, HTML, CSS, and more.
+🛠️ Tech Stack: PHP, Laravel, React, React-native
 
 Connect with me and let's build something amazing together! 🚀
