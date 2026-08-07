@@ -89,16 +89,10 @@ Real-time data, comparative dashboards, versioned decisions.
 
 </div>
 
-<!--
-  Snake do grafo de contribuições.
-  Descomente o bloco abaixo DEPOIS que o workflow .github/workflows/main.yml
-  rodar pela primeira vez (Actions > Generate Datas > Run workflow) — antes
-  disso a branch `output` não existe e a imagem quebra.
-
+<!-- Gerada por .github/workflows/main.yml, que publica na branch `output`. -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Felipe-H/Felipe-H/output/github-contribution-grid-snake.svg" alt="Snake eating my contribution graph" />
+  <img src="https://raw.githubusercontent.com/Felipe-H/Felipe-H/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contribution graph" />
 </div>
--->
 
 <div align="center">
   <sub><code>felipe.hborba@hotmail.com</code> · <a href="https://www.linkedin.com/in/felipehsborba/">linkedin.com/in/felipehsborba</a></sub>
