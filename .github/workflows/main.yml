@@ -22,9 +22,10 @@ jobs:
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
+          # Paleta Flamengo: preto na base e vermelho forte no corpo da snake.
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=%23FF1A1A&color_dots=%23000000,%23250000,%23580000,%23A90000,%23FF1A1A
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23FF1A1A&color_dots=%23000000,%23250000,%23580000,%23A90000,%23FF1A1A
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
