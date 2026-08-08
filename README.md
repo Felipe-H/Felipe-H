@@ -19,9 +19,4 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Felipe-H&bg_color=000000&color=FF4D4D&line=E10600&point=FF1A1A&area=true&area_color=7A0000&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
 
-<br /><br />
-
-<!-- Gerada por .github/workflows/main.yml, que publica na branch `output`. -->
-<img src="https://raw.githubusercontent.com/Felipe-H/Felipe-H/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contribution graph" />
-
 </div>
