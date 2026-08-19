@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/felipehsborba/">
   <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=flat-square&logo=linkedin&logoColor=FF1A1A" alt="LinkedIn" />
 </a>
-<a href="mailto:felipe.hborba@hotmail.com">
+<a href="mailto:felipe.borba@cnm.org.br">
   <img src="https://img.shields.io/badge/Email-E10600?style=flat-square&logo=maildotru&logoColor=white" alt="Email" />
 </a>
 
