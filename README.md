@@ -1,22 +1,35 @@
-<div align="center">
+# Felipe Borba
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=Felipe%20Borba&fontSize=52&fontColor=E10600&fontAlignY=42&desc=Software%20Developer&descSize=17&descAlignY=72&descColor=FF4D4D" alt="Felipe Borba — Software Developer" />
+**Senior Software Developer**
 
-<br />
+Software developer focused on reliable web applications, automation, service
+monitoring, and practical solutions to complex problems.
 
-<a href="https://www.linkedin.com/in/felipehsborba/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=flat-square&logo=linkedin&logoColor=FF1A1A" alt="LinkedIn" />
-</a>
-<a href="mailto:felipe.borba@cnm.org.br">
-  <img src="https://img.shields.io/badge/Email-E10600?style=flat-square&logo=maildotru&logoColor=white" alt="Email" />
-</a>
+[Portfolio](https://felipeh.com.br/) ·
+[LinkedIn](https://www.linkedin.com/in/felipehsborba/) ·
+[Email](mailto:felipe.borba@cnm.org.br)
 
-</div>
+## Profile
 
----
+- Postgraduate in Big Data
+- Software developer since 2019
+- Tech Lead
+- AI Orchestrator
+- Service automation and monitoring
 
-<div align="center">
+## Technologies
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Felipe-H&bg_color=000000&color=FF4D4D&line=E10600&point=FF1A1A&area=true&area_color=7A0000&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
+| Layer | Stack |
+|---|---|
+| Front-end | React, React Native, TypeScript, Vue 3 |
+| Back-end | Laravel, Node.js |
+| Databases | PostgreSQL, MySQL, MariaDB, Redis |
+| Infrastructure | Docker, Linux, Apache |
 
-</div>
+## Portfolio
+
+The full interactive developer dossier includes selected projects, technical
+context, professional activity, and the tools I use across each application
+layer.
+
+→ [Explore the portfolio](https://felipeh.com.br/)
